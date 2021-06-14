@@ -1,2 +1,2 @@
-# Shilding-calculations-for-radiotherapy-
-Shilding calculations for radiotherapy deparments
+# Shielding-calculations-for-radiotherapy-
+Shielding calculations for radiotherapy deparments
